@@ -1,7 +1,5 @@
 # AWS Architectures
 
----
-
 ### MERN Stack AWS Architecture - 1
 ![AWS Architecture 1](https://github.com/Abbas-Borji/AWS-Architectures/blob/main/Architecture%20-%201.svg)
 
