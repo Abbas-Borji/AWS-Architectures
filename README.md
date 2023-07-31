@@ -1,5 +1,6 @@
 # AWS Architectures
 
+---
 
 ### MERN Stack AWS Architecture - 1
 ![AWS Architecture 1](https://github.com/Abbas-Borji/AWS-Architectures/blob/main/Architecture%20-%201.svg)
@@ -21,6 +22,7 @@ The architecture depicted above is designed to support a MERN stack application 
 **Securing CloudFront and Route 53 Communication with HTTPS**
 - Similarly, CloudFront and Route 53 communication employ HTTPS with the SSL certificate applied to CloudFront, ensuring that users interact with the application through a secure connection.
 
+---
 
 ### MERN Stack AWS Architecture - 2
 ![AWS Architecture 2](https://github.com/Abbas-Borji/AWS-Architectures/blob/main/Architecture%20-%202.svg)
